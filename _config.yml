@@ -1,11 +1,11 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: SOLID.
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Kelley Works
+description: "Public Portfolio of Mike Kelley"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+url: "http://kelleypublic.work"
 
 # Build settings
 markdown: kramdown
@@ -34,25 +34,21 @@ collections:
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
-  - title: facebook
+  - title: linkedin
     url:
   - title: twitter
     url:
   - title: instagram
     url:
-  - title: tumblr
-    url:
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - Some Ave, 987,
-    - 23890, New York,
+    - 4833 Lone Hill Road
+    - Chattanooga, TN 37416
     - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
+email: mkelley@kelleypublic.com
+tel: 1(423)424-6532
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
