@@ -1,7 +1,7 @@
 ---
+title: Erlanger Health System
 layout: project
-title:  "Erlanger Health System"
-date:   2017-08-12 16:54:46
+date: '2017-08-12 12:54:46 -0400'
 author: Mike Kelley
 categories:
 - project
@@ -14,7 +14,8 @@ carousel:
 tagged: website, print
 client: Erlanger Health System
 ---
-####Erlanger Health System
+
+Erlanger Health System
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
 
 ####Our Proposal
